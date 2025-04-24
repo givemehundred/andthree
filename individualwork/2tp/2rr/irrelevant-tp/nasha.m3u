@@ -1,23 +1,5 @@
 #EXTM3U
 # == МАКЕДОНСКИ КАНАЛИ ==
-#EXTINF:-1 tvg-id="1" tvg-name="MRT 1", MRT 1
-https://teve.mk/tvstanici/mrt1_360p/chunks.m3u8?nimblesessionid=455462471&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI1IDExOjA2OjM0IFBNJmhhc2hfdmFsdWU9QVpsNDFWdm9LRE1rMFRnY3hwVXhVdz09JnZhbGlkbWludXRlcz03JmlkPTU=
-#EXTINF:-1 tvg-id="2" tvg-name="Sitel TV", Sitel TV
-https://teve.mk/tvstanici/s1/chunks.m3u8?nimblesessionid=455462472&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI1IDExOjA2OjQwIFBNJmhhc2hfdmFsdWU9OTU3eHhoc280NmVxTUp4Q0xOUXJJQT09JnZhbGlkbWludXRlcz03JmlkPTU=
-#EXTINF:-1 tvg-id="3" tvg-name="Kanal 5", Kanal 5
-https://s2.teve.mk/tvstanici/2/chunks.m3u8?nimblesessionid=12288397&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI1IDExOjA2OjQ0IFBNJmhhc2hfdmFsdWU9UWpTb3k2bDdoYXdyZkR6YkNLUXhKZz09JnZhbGlkbWludXRlcz03JmlkPTU=
-#EXTINF:-1 tvg-id="4" tvg-name="Telma TV", Telma TV
-https://teve.mk/tvstanici/telma/chunks.m3u8?nimblesessionid=455462477&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI1IDExOjA2OjQ4IFBNJmhhc2hfdmFsdWU9NjQ2Y3JhNWtZeTUzbUtTZzcvQzNoQT09JnZhbGlkbWludXRlcz03JmlkPTU=
-#EXTINF:-1 tvg-id="5" tvg-name="Alfa TV", Alfa TV
-https://teve.mk/tvstanici/alfa/chunks.m3u8?nimblesessionid=455462479&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI1IDExOjA2OjUyIFBNJmhhc2hfdmFsdWU9K0RWVEhicEdNYnNTbng2ekpqa0xFZz09JnZhbGlkbWludXRlcz03JmlkPTU=
-#EXTINF:-1 tvg-id="6" tvg-name="24 Vesti", 24 Vesti
-https://teve.mk/tvstanici/24vesti/chunks.m3u8?nimblesessionid=455462481&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI1IDExOjA2OjU3IFBNJmhhc2hfdmFsdWU9MFNtZXBjbnRwUGNocVE1U1lNNFA0dz09JnZhbGlkbWludXRlcz03JmlkPTU=
-#EXTINF:-1 tvg-id="7" tvg-name="MRT 1 SAT", MRT 1 SAT
-https://vod-c57.interspace.com/channel_abr/45/receiver/45_p3/chunks.m3u8?nimblesessionid=23622280&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI1IDExOjA3OjAyIFBNJmhhc2hfdmFsdWU9VEFVdkdBWTE4cDB1TFRQOHI5NEw2QT09JnZhbGlkbWludXRlcz0zMCZpZD02ODBhYzQxNjU1NDRm
-#EXTINF:-1 tvg-id="8" tvg-name="Sobraniski Kanal", Sobraniski Kanal
-https://vod-c57.interspace.com/channel_abr/44/receiver/44_p3/chunks.m3u8?nimblesessionid=23622283&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI1IDExOjA3OjA3IFBNJmhhc2hfdmFsdWU9UHJrU0RsVWp4OW5ISW1BQkdORUdTdz09JnZhbGlkbWludXRlcz0zMCZpZD02ODBhYzQxYmJhYjhi
-#EXTINF:-1 tvg-id="9" tvg-name="VTV", VTV
-https://live.vtv.mk/live/vtv/chunks.m3u8?nimblesessionid=21614858
 # == ПРИОРИТЕТНА ЛИСТА SEGASNA ==
 #EXTINF:-1 tvg-id="1" tvg-name="Naša TV", Naša TV
 https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
@@ -218,12 +200,6 @@ https://clubbingtv-rakuten.amagi.tv/playlist360_p.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="Prensa Latina TV", Prensa Latina TV
 https://eu1.servers10.com:8081/8192/tracks-v1a1/mono.m3u8
 # == ФИЛМСКИ КАНАЛИ ==
-#EXTINF:-1, PINK PREMIUM |D
-https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/Mh_6HC0B3ang1hfAmQcyHnoSKnXKaPhpdliaJ0IjCm4ruQ-t5c3ucuAB5UtU5bSsQNIoKUeJsKIBCctwW87LYtX_9Vi01cymfv52Pwbzd1mYZgp4f5v2g9sUoifWFy2F2N_WWDEVeDkKD1T5wfpIcS7tG87g1n2Kq24UCVsG6JoWPq1V7MaOQI6itTg9srMi/hls/index.m3u8
 # == ДОКУМЕНТАРНИ КАНАЛИ ==
-#EXTINF:-1, VIASAT HISTORY |H
-https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/w1lixVhiGK55buCd1hKbo3DaSk67zuTQvk0-BJWYf-6d8QoZhEIh7eJsPcuz1dgq36jKoQjvFpQYvSrfiuYsSasljgc7y9chZYQAWCNdh2iHkaYl_O-lAfClCOdvNbX-8rq4gvRgGUSWpeOrOex29QN4CbFdf1r-fnmjoIwayHpdV5xfVuIwY4o9VvmilXi3/hls/index.m3u8
 # == СПОРТСКИ КАНАЛИ ==
 # == БАЛКАНСКИ НАЦИОНАЛНИ КАНАЛИ ==
-#EXTINF:-1, ALTERNATIVNA TV
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/AGej1ubGsc4DvsU3NWtQNC_6qYeCmIApiXixQR_J78GTBjUbOQMOr8Cu4EKYpzsitPmATtc1FecZ-MKm-woTnuSdMzhZWDS9eAd8hLJ-kKqu4dOX8BVAysA6jXrhNi_eZJqx4QUDXcmXdyiW7uJ8UGjxJyFlbDPWpYLNGwIk2F2TZiVRIiZuVbwM3NneFdVn/hls/index.m3u8
