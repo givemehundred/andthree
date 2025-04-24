@@ -1,5 +1,21 @@
 #EXTM3U
 # == МАКЕДОНСКИ КАНАЛИ ==
+#EXTM3U
+#EXTINF:-1 tvg-id="2" tvg-name="Sitel TV", Sitel TV
+https://teve.mk/tvstanici/s1/chunks.m3u8?nimblesessionid=455462639&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI1IDExOjE3OjIwIFBNJmhhc2hfdmFsdWU9QXVucHBiVCtoajZ3M2ZiUXE1dzhyQT09JnZhbGlkbWludXRlcz03JmlkPTU=
+#EXTINF:-1 tvg-id="3" tvg-name="Kanal 5", Kanal 5
+https://s2.teve.mk/tvstanici/2/chunks.m3u8?nimblesessionid=12288436&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI1IDExOjE3OjI0IFBNJmhhc2hfdmFsdWU9d3c5UVZZdGM2TkJLK3N5SG90UVBpZz09JnZhbGlkbWludXRlcz03JmlkPTU=
+#EXTINF:-1 tvg-id="5" tvg-name="Alfa TV", Alfa TV
+https://teve.mk/tvstanici/alfa/chunks.m3u8?nimblesessionid=455462641&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI1IDExOjE3OjM0IFBNJmhhc2hfdmFsdWU9cTc1bEZkT0RXRjJFWm5kSHR5MlZXUT09JnZhbGlkbWludXRlcz03JmlkPTU=
+#EXTINF:-1 tvg-id="6" tvg-name="24 Vesti", 24 Vesti
+https://teve.mk/tvstanici/24vesti/chunks.m3u8?nimblesessionid=455462643&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI1IDExOjE3OjM5IFBNJmhhc2hfdmFsdWU9MTlKZXo1K3BBY05GVEQrSDJZY0JUUT09JnZhbGlkbWludXRlcz03JmlkPTU=
+#EXTINF:-1 tvg-id="7" tvg-name="MRT 1 SAT", MRT 1 SAT
+https://vod-c57.interspace.com/channel_abr/45/receiver/45_p3/chunks.m3u8?nimblesessionid=23622721&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI1IDExOjE3OjQ0IFBNJmhhc2hfdmFsdWU9Qnd4NWF5RzFNODdrU1ovcVFCUzdQdz09JnZhbGlkbWludXRlcz0zMCZpZD02ODBhYzY5ODEwM2Qx
+#EXTINF:-1 tvg-id="8" tvg-name="Sobraniski Kanal", Sobraniski Kanal
+https://vod-c57.interspace.com/channel_abr/44/receiver/44_p3/chunks.m3u8?nimblesessionid=23622722&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI1IDExOjE3OjUwIFBNJmhhc2hfdmFsdWU9Q01UTVZHcUFrdk1pNVM1Z2hlelZrdz09JnZhbGlkbWludXRlcz0zMCZpZD02ODBhYzY5ZTZjN2Iw
+#EXTINF:-1 tvg-id="9" tvg-name="VTV", VTV
+https://live.vtv.mk/live/vtv/chunks.m3u8?nimblesessionid=21615407
+
 # == ПРИОРИТЕТНА ЛИСТА SEGASNA ==
 #EXTINF:-1 tvg-id="1" tvg-name="Naša TV", Naša TV
 https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
@@ -199,7 +215,27 @@ https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a0
 https://clubbingtv-rakuten.amagi.tv/playlist360_p.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="Prensa Latina TV", Prensa Latina TV
 https://eu1.servers10.com:8081/8192/tracks-v1a1/mono.m3u8
+
 # == ФИЛМСКИ КАНАЛИ ==
+#EXTINF:-1, PINK ACTION |H
+https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/dmgdFmfO6vwfuqEznH9ET1fD1cFcjbpAYHpffnnYLGadBK27cHqFxVnL7bp1lTbm8pEaCW2UCnjNHUKvips7_UTn_vrU5r3aGK7hVAdm9S7c5703J2wXsrHq-poOgxju2GS-RhKlfHzYTY6ZUenAPfO9v_bxKOJSKZTuHDPpCg6vmrcFhqjV1xjTQSAgl3rZ/hls/index.m3u8
+
 # == ДОКУМЕНТАРНИ КАНАЛИ ==
+#EXTINF:-1, 24 KITCHEN |E
+https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/mklOFnlFL5hJdbOuoShtiERkrfDvWJ0yCpc2uLKQ8APQHLYBDeV11Hh-2atDLZb5KKTaxvLPgap418HCO4hELBotBcsQJBXjH1x1UIwIQqUfbv61sY_iz1XKk8St1A7HLWy5hqG1_BKz1m4xeVZRz4nArzKgd7KIFp9QxzoT4squzV8tFw4TdcRsruqmz8d-/hls/index.m3u8
+#EXTINF:-1, HISTORY 2 |H
+https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/RiGgSJfKxKq-Uhl5BauydDFueBTs8no8s7WAyKXLi4CS7j5gFMy7amstoCY3STLYG38TOY22O501efWnBiIgJIUcwYywUnAkFkPCFjnth_CIpFq5VVqVXBULXriyXEV27DhU1Piqp29DCWi5j9HhmbVgKNMea1bpfyFoP6rKzVQ/hls/index.m3u8
+#EXTINF:-1, NATIONAL GEOGRAPHIC HD |D
+https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/eiiSpGRPg7dZ_noPjlPxzf4z9iVqXj3dUImoBYn5bD0gAdcxOdvOjkeO5j57f74j75PWywNGEVwckAJnZhj57D_F9eXVoe5aBHldrZIn987kPZScX7cW0x_edHmGJz7quwytIZNYXCgJknzU6N8_v_sSHZxT-3b6dY_XIpAADDVkq6FxqSjHtScB_vsDFioI/hls/index.m3u8
+#EXTINF:-1, CRIME & INVESTIGATION |H
+https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/vXk3D3WFmyLQNKS8oNe2wyRotk_OMbmnBnnqQjSu4RHmfvcx9VMo-6BUUAyjJL8F4mXsZHWAsD4B0GJvcH_WqKmcYakPB6WZ9JWsADyxj-Aasej0rHDFarL7WVVFykTvePD3zt8VoLTztfXHoyP798zGyaxXgprbe_Njl5BNPegbwVuxtmKMewuc_3XFPEuQ/hls/index.m3u8
+
 # == СПОРТСКИ КАНАЛИ ==
+#EXTINF:-1, SPORT KLUB 2 |D
+https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/TCJNV-v2q2Yf6XGJMJuoDzcljBgzS5NJE9FA6yJAQ9UnEK3LU0IhcWsH1PH0U8BA42heEl4wgxNyG1IfQeTeM-IvLXFBtvfx4Jt7KcIfNvDv8p-l-phGLNWKYz-S-nMTDFd0cfsuZZyf5AjBzPDPr67zNhwt4atKSavMO1A2NQphDQsQmIBplETL9wNGtE71/hls/index.m3u8
+#EXTINF:-1, SPORT KLUB 4 |D
+https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/Lk-aw1API-YcUEYVWXcs1Tv1OW1VAOZ_s1FU9fX8StuCOQruNUh_qJK22sKKUvpD5gsSdfJGn3ELXzfXrUM1hVA1iBlduLndTxgJvi_FLEb2ynQ4Nu-sI9ey78Bf0fb-Ank3HTpmpSMy9MM_gTePtI7BjrFiICKcVdMzNPDN8PTr4wTul5I2gzoGr0AS0Qdl/hls/index.m3u8
+#EXTINF:-1, SPORT KLUB 5 |E
+https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/1ZdygdBlec7QIfuO30PdQibPXo2hRNeEsW5OzPOUyquxxf8M7b2LS04GgHn5EdnhrW3PIlo2W_xQC9EI2tUVt5X2AsXOErrn8o9L4_8nhomyn_rssVcPawDQSbWugDhSpxg1b8P83_-QLEFg-zfDxiSFVpVf5Rq0Zgl6Je-2MWNz7ZVmIzyH2--nEpe43QqM/hls/index.m3u8
+
 # == БАЛКАНСКИ НАЦИОНАЛНИ КАНАЛИ ==
