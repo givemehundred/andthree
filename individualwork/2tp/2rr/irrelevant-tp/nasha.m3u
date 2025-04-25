@@ -1,4 +1,17 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="MRT 1", MRT 1
+https://teve.mk/tvstanici/mrt1_360p/chunks.m3u8?nimblesessionid=455509168&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDI1IDc6NDA6NTUgUE0maGFzaF92YWx1ZT1JV3JtUDR6M2xDRGRVdFozYXZrcjFnPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
+#EXTINF:-1 tvg-id="3" tvg-name="Kanal 5", Kanal 5
+https://s2.teve.mk/tvstanici/2/chunks.m3u8?nimblesessionid=12308822&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDI1IDc6NDE6MDkgUE0maGFzaF92YWx1ZT1PTzJUcUM0RzdHUGdYUkl2Y3duc1dnPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
+#EXTINF:-1 tvg-id="6" tvg-name="24 Vesti", 24 Vesti
+https://teve.mk/tvstanici/24vesti/chunks.m3u8?nimblesessionid=455509239&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDI1IDc6NDE6MzAgUE0maGFzaF92YWx1ZT1XWC9QR29sNFBvZTRuQUJNQUV2dlVBPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
+#EXTINF:-1 tvg-id="7" tvg-name="MRT 1 SAT", MRT 1 SAT
+https://vod-c57.interspace.com/channel_abr/45/receiver/45_p3/chunks.m3u8?nimblesessionid=23814266&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDI1IDc6NDE6MzggUE0maGFzaF92YWx1ZT1OcEJCbHJucWFWZUhkR3B5SEM2ci9BPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY4MGJlNTcyMGJmNjE=
+#EXTINF:-1 tvg-id="8" tvg-name="Sobraniski Kanal", Sobraniski Kanal
+https://vod-c57.interspace.com/channel_abr/44/receiver/44_p3/chunks.m3u8?nimblesessionid=23814271&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDI1IDc6NDE6NDUgUE0maGFzaF92YWx1ZT15SlhUcTIwcnA4YWNxeEtpMitDSVl3PT0mdmFsaWRtaW51dGVzPTMwJmlkPTY4MGJlNTc5YTYzNGI=
+#EXTINF:-1 tvg-id="9" tvg-name="VTV", VTV
+https://live.vtv.mk/live/vtv/chunks.m3u8?nimblesessionid=21689950
+
 #EXTINF:-1 tvg-id="1" tvg-name="Naša TV", Naša TV
 https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CoolTV", CoolTV
@@ -197,3 +210,34 @@ https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a0
 https://clubbingtv-rakuten.amagi.tv/playlist360_p.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="Prensa Latina TV", Prensa Latina TV
 https://eu1.servers10.com:8081/8192/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, SPORT KLUB 2 |D
+https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/-JRIaGSqZ99G1J9LTCGykOX2Hw2-4G5waJ40LFUUBLNDRcJ9L3tGBLmm9_ApKnKGXYxOXGgtmvhvesOXzsVd4yZSpK1N528Vm6QVxHgg78KdQYLqpHbOTenQK1M3igfrHvu2ImXqwdlnzubaDS-yfxJ9PG4auLAFvcOdjK7MBZAcnyq1CNZ0KzzVIir4NFYi/hls/index.m3u8
+#EXTINF:-1, SPORT KLUB 3 |E
+https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/SknhVLdgJerekMg531kTEKY376DKwXL7pwGiJ1EkxyIMdr2UBNwVCoVWEY0Dxed_4d5l1S45HFh9mDZDap_bvrzOuZBHYWmIOIZrO1rEhmRGxzzEunmWh4Ig2SQ0GAUxESZzAadY8M3xS2U4RV9teL_LzArXzxDdvKqCKrTPk7Zt3GWCBdNpgPYVch9n5ipP/hls/index.m3u8
+#EXTINF:-1, SPORT KLUB 4 |D
+https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/74_D4rF2rKmUkc3048u2Z4BTWukW1KG6KwsYx4QqO7G-eqQy9hhrhBnQisFK4PG2AOouOlqxBO7eNfl3EGfmddzI0PlcXJvuBkUNOuM_MRbL6QyC2XyDBc3c1lTXk6FaxF7LU5rKY8BiY0iCUF6bQmo0vjJHxqjut5WKfuBTttKeeot4Q_ZRfo2EhtiK6I0K/hls/index.m3u8
+#EXTINF:-1, EUROSPORT 1 |E
+https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/EpjphuK2UpYl0QKQTpbKzR1v5V0Ci5FZRbohkIUqCzDIc_4OUpHwE4LKlRJSAzHHWjZqx0YmK-22JPAhd0z_Qr4tIj5vmJoXOxHxTVCB2X0ZHVMyfbWWMRP3zdasCilAngN9gd1rckwetCEOpn4CyU1lpO1avmudLmREP4usRQxVJ7ZNRyZAflgBHlyvaht0/hls/index.m3u8
+#EXTINF:-1, ARENA SPORT 1 HD
+https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/WPy6Y-ynY3lne00lax1q3Vr2NodM7-LryWMmG95ezB1451mAJoK0ew5t-flm3oQD_RF3SCnlVw1NAIyhRwOrUZ_Y1xlP03XtKcjTMhbm5uMRRH1IVwYhhu18fPyBOkCoxwob5cVqfCk9sL6OQSnnDbHuQSeS5arR43QbOjLKm3BsfdItVDJB2lJ17MgY0aGi/hls/index.m3u8
+#EXTINF:-1, ARENA SPORT 1 SRB
+https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/kVpMBEcAu6FgpVzERk48LW4MAhS7-fDEv1M9eW07_dRx0y7dmeLrtGp01ia-PPNWIFzq2r19YDd5dpvc_M5qxlevjLG0mQ7QBHUW_jCU_e83f1r55RbCHrBeb9bJ4Ah-g7DSToXWRHrSmjzfTts_XAF1Q8fGcbocCR66wbfXLpcRApDK4oNGyU_94NV-fn9o/hls/index.m3u8
+#EXTINF:-1, ARENA SPORT 2 PREMIUM |E
+https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/kr759tvyVRyeSr3gMyZu_K4k_iSuq_RZHYpTNQ0ZPt4KCZH7c_jpAtFaMi4WO5bkuOXWp0OtqXmo7H8Vqj9rsSYh5Hhd9d2xucilnWMP9j-Q0pDtgixwykhi95dVYg8m_21DYGGF5MGSmlCqwjni7whjo255hfU6_avov2hFpQv7tFBHj0zCO12QtsIAqGoZ/hls/index.m3u8
+#EXTINF:-1, ARENA SPORT 2 BIH
+https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/5WuONPj39WRyNt8w04FVZ6ta2y64GLUJzsZ-5NmXgtiH1yi1_zd2Ks7MPYCVF0zZk2r3NmnBoRJvL61CPIyUUuqV3KUKQ2grUrwmmKCu6sGwhIwhK4DVwWc_-5Yr9r8TVjgm3lk0f_Xkc_ui2_cpCPsVLuP1Qaf0eYFi-1pgD4NojvoWd8laOZ_V67pqYzIJ/hls/index.m3u8
+#EXTINF:-1, ARENA SPORT 2 SRB
+https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/5wDRuAdQ3dc5Xe5J2DHvMBpx9mtEIG03Q71TaNPhx-EfrTgsOpDOimrPwZeNJzeBTHtwHj_DhZ7ykRAv7ZMRUS8azrBpCQvrivzY3XBZijHtqRjU33bZeKJGTSfL8jho_VyHzfDCi2MeCpIlT3HTi2jdr5wljZebxbhCHh30DxPV6LVXTVRPP5C8a1PAeloF/hls/index.m3u8
+#EXTINF:-1, ARENA SPORT 3 SRB
+https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/Bg4gRrGJ9bO0P35WiQcrtyDXODdK6G37Ujww75HB9KbRWjpvUmNkSscWh0YTo2Dnvuf3VsaMwI8KQa7CHV2M5i5GyoO5GwuiDWwJIi-WkrEewI4otKiVTKJ3ZF01faUZOqf4vcaf4w7T-jAKeC4GMBD1a2T3SZuG-kMfr6_c00gjhkqxOU04stEQlkxNxDut/hls/index.m3u8
+#EXTINF:-1, ARENA SPORT 4 BIH
+https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/phWhrvR4UT2fRhEwf66O0Tk1vFPV04DpmIBASZUmHP1HY5ONCQG1VK8-s1H8hjQARlIHqVls_s5YUJpIeWJ102zpCZuRhnKeLmNBRwKEdsQghWaNZqND80VSyCth7Dij7nL7jsutwwgMJXw3bdx1YLjJ4pW3m5smkfT-uXspk9BQju7qXQcD8DhWliX-Cozi/hls/index.m3u8
+#EXTINF:-1, ARENA SPORT 4 SRB
+https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/6hWrsQhIiGqdW65h97n5PAblFRDlQ9_uJvdr2OobcZrX004CFlVjH8yfE8eb05Lx6KcoG_S-K4JCKOn4cImgcwDleBotaWB2UGwOV3gw1Da0yYqaYJWybpkBKMF2yMTClzIQZEbBFbONw0p27rCkApUue5kHTSmf2on1nt66cxRSyjkecp9CUhump_bEMqKA/hls/index.m3u8
+#EXTINF:-1, ARENA SPORT 5 HD
+https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/qBZGbV860vVOiXjr1uYjUaYyY_SY5q7fkMBdZxqeMzzbkMT2btp8_bPiuOE0d_bv3rorJdtFnWx_6io6_7YMNmpyHH_gPN3iGrik8gI9IDc9tWl4siCzjEUGuBOpoIlPz4qWlwx_pXanjLCTykqpyir9d0hmdp_M9js__iq6-7o/hls/index.m3u8
+#EXTINF:-1, ARENA SPORT 5 SRB
+https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/xFl0B1RKn7seZzhsTbrQ6Ni7uHClgg7GBCjpkPxRjwLJBTZ57P-WZz6u7EAGuRsQBR4GreR9OrJzMdYmZTR3u_xEq7Vl_mNdDOIczUOZSWB7EpfLLz0dgy4llavT-qdLV1Noiv0jf09A48vkQ9nQxLYU5gqJgRg1GaV3zWUkgSBueADugvzPcz-6fdvLR9by/hls/index.m3u8
+#EXTINF:-1, ARENA SPORT 6
+https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/KkCiBOEMTxvbm2LRf-vPmFVJf-tTb2UGxgeKh6T2UaSP7MiS60HSnMFGahM2fXFETzfyeHwf1Qn3LLrC7P-wPk-WES8d77SyKoqJ5UXemDdHi7hxGqYCGBB7-bZ3_szhraILhj7QheHOOg6zXikOvEhdddKwbMmliUZW6v5wW5o/hls/index.m3u8
