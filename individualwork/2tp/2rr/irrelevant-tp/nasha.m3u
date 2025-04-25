@@ -1,6 +1,4 @@
 #EXTM3U
-# == МАКЕДОНСКИ КАНАЛИ ==
-#EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="MRT 1", MRT 1
 https://teve.mk/tvstanici/mrt1_360p/chunks.m3u8?nimblesessionid=455462688&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI1IDExOjIwOjIxIFBNJmhhc2hfdmFsdWU9Z0dldmpXeEhrTlp3b2ZjQ1FnclhMUT09JnZhbGlkbWludXRlcz03JmlkPTU=
 #EXTINF:-1 tvg-id="2" tvg-name="Sitel TV", Sitel TV
@@ -19,8 +17,6 @@ https://vod-c57.interspace.com/channel_abr/45/receiver/45_p3/chunks.m3u8?nimbles
 https://vod-c57.interspace.com/channel_abr/44/receiver/44_p3/chunks.m3u8?nimblesessionid=23622853&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI1IDExOjIxOjEzIFBNJmhhc2hfdmFsdWU9RU1iMnI3aUtlVUxJUW9zK0pNbjljZz09JnZhbGlkbWludXRlcz0zMCZpZD02ODBhYzc2OWJmZGQ3
 #EXTINF:-1 tvg-id="9" tvg-name="VTV", VTV
 https://live.vtv.mk/live/vtv/chunks.m3u8?nimblesessionid=21615585
-
-# == ПРИОРИТЕТНА ЛИСТА SEGASNA ==
 #EXTINF:-1 tvg-id="1" tvg-name="Naša TV", Naša TV
 https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CoolTV", CoolTV
@@ -219,8 +215,6 @@ https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a0
 https://clubbingtv-rakuten.amagi.tv/playlist360_p.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="Prensa Latina TV", Prensa Latina TV
 https://eu1.servers10.com:8081/8192/tracks-v1a1/mono.m3u8
-
-# == ФИЛМСКИ КАНАЛИ ==
 #EXTINF:-1, PINK ACTION |H
 https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/ez8i9wKPCMuojqg9yXqstdNwZ4ubepPgk5pNEzACj8iO9OP8x1gbhHtdFtf-J_IHyx5_e4TkeJGVOxUUk7JBbf20id3Bh2xpdwNBCviFTyfjwaYSWFX5Kvv55xPZ06z3cZ-hFkuvBwvvkpGZsr1Ze91BYEMkJ7-6LEri_qR0h1F2FS8SKN3nVCO2AFg78wFV/hls/index.m3u8
 #EXTINF:-1, PINK PLUS |D
@@ -251,8 +245,6 @@ https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/SBzwEvu6EAnFI-PQ54
 https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/aKDufTzhp_ooTb5y7bOeSGezxn7J7B2EFi3B4NpcdbGSQjILGVHyjFdZa5l7st9pdPntTkNdyxdpTBoY65Pt4xTEXMPn0LZyCTUcHWeaC4I8sHsAFeJsdrZNh-nqm7wxJbEZSFmnGCK1saCkYdM9y7yqyZVpvl0MCMs2ahvqkyO9VCuI40mN1tuSoIDZKAei/hls/index.m3u8
 #EXTINF:-1, FOX |H
 https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/WWDXNqsDaSd9fP4RkZf6GDOzIe8CEm0Vb_106Xe2lNCovLrltsfjRjqDctqJ1Dvaxq1ien-AleS_5255RnXV0I3JcmEQBmYCAqME1qc90sNVMRh0uWqIA7Nb4nO7E7ssOdseFFv8BpiUDNRJ7Le5_MCM856GYGE0RLZWwFyH8bQg_zk6UA5bQ-EccOCFg7mc/hls/index.m3u8
-
-# == ДОКУМЕНТАРНИ КАНАЛИ ==
 #EXTINF:-1, 24 KITCHEN |E
 https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/bMuJcnaHi0hTZhWKb1QyDvBKz5sSjJC8u4STMSZzskcBozfyH8RpTnGFrpn3rWFjxhU12jOS26S9B06hH7ezHLCsdUVhxvIjHcsfxfCah9iTF6fvGTTGu91x0eVKmAeMF8sdemjTYzYDXB02Yf9QRvwnKZNpvRf_Y0NnIRF6zBFv32q1q123fumfSTLvkU8t/hls/index.m3u8
 #EXTINF:-1, HISTORY 2 |H
@@ -265,8 +257,6 @@ https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/kGHoo_O7OKD-43FGlS
 https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/dBH2uux6mCIHw0W_ETAYgmWZgTXi7VUn5MLYs2ORWZOegOhoHcmfqz_eUYzHo7nYdgUdsW_h-zN1qy-4oERWHNA_tmmA0JFnveToNKUUHoFeSEyrsZ9m9NA1wFqHxv5x9V4ms4Ijm_HxTnnZlKiEFZ1oCtvMYtRdfE10_7Y2SF8fWK-ilq454Zs7noid_Uir/hls/index.m3u8
 #EXTINF:-1, DOCUBOX |H
 https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/iWEemhAuDYf-XtsmO7jl3wPqLlRxdry7CcOuRN7bGDU8m70ksUDjZyeBwodgcZK63jqzAqZ5SeJCT_z7RaPJTXU56ELNX5RlVbMd19ldLcDFG4MyWGv1obshnUVP-5u9q4FLKNBgXj98aqxef1j_VP-m7v8eBqPiorsZ5W0nv3VUf0mvD68KJJBDrQ3xHhGg/hls/index.m3u8
-
-# == СПОРТСКИ КАНАЛИ ==
 #EXTINF:-1, SPORT KLUB 2 |D
 https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/hWDpOSzxHjNTx1qpr7EXHyKivAil8VXdDutVBcJC4U92nNZh6aKeoyrAqemvzgLTPheHEc4W2zzgLtIaFOMcZJAHqVcVDiUyYsZBuG7l1p1nyA9OKsXY3LOmbWdobtCS4LY7Tl6ZqxzWF_5H27CRz2_2VvQ-wYWuc5tfKbkSGXs/hls/index.m3u8
 #EXTINF:-1, SPORT KLUB 4 |D
@@ -281,8 +271,6 @@ https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/T5EJujjbsOESgphIz4
 https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/SXgF9JXS_tODSvd83E5SOJIDMIFV_qXkbVBBveTJlkFUxGDaewi7ktZnwbpALHo5Y9OW_yLSISdvV7vzuDG9lmcirermb2nltWyVdcXr-RHj0BNV93ldYBWjJlfTGL291pW6ljxa0Gpme4R_jWzuwns16QaRrimbGSmAQaK3ht5B3IO_YfsxMRreY3YsB7Ua/hls/index.m3u8
 #EXTINF:-1, ARENA SPORT 3
 https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/-iWZZb1FzU-7uva16ppH5AuT7WBznhe-ZnWwDCSGYFO_wOQjBjc65eRk6vBQJRjCgnEq2U6rN3IIXh3sZd3ZQIdKi5JpzXMJ9_fgrW5srH8riWCdr1km8LUqUbcOyjeWhIhpyr24jSFUh0nfk89Q3aLFFdpZWVKv2ChwFzPZBZ7HbuZGL3t2ztBm2WPgj0gU/hls/index.m3u8
-
-# == БАЛКАНСКИ НАЦИОНАЛНИ КАНАЛИ ==
 #EXTINF:-1, PINK 1 |D
 https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/Oy5ds2dossVBAz-CXFz9OjqA4wyLjOnfmBUo_WkBR8O-1qyZoRxsqtB5DPzNs9GP61XSJY1fOKDHZKjkiJGuiAHUXNb2aB99M69EawMrKo_vdaQSOpNMZsPNdgxQUH3chdS-aYAJXJX8k3UncTkFy4gDPGe_rWTNauRX9EpRnJhowWvOcjRFI2vTzhArX72s/hls/index.m3u8
 #EXTINF:-1, NOVA BH |E
