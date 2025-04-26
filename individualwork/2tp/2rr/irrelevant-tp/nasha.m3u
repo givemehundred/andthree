@@ -1,15 +1,54 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="DigiSport 1", DigiSport 1
-https://p13.magicplaces.eu/digisport1hd/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=9bb31b0314179670f7d2412a555ca9472d2a6ca6-71c0d59acbb1cb6d458db8570d6864ea-1745688341-1745677541
+https://p13.magicplaces.eu/digisport1hd/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=d794bb39dfab63c7d3e7f4593ed928d77b5604a4-9aaabc08d8dffbe560245445b697e700-1745688670-1745677870
 #EXTINF:-1 tvg-id="2" tvg-name="DigiSport 2", DigiSport 2
-https://p13.magicplaces.eu/digisport2hd/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=0c4e84d506a3df1e2ab536644fd68548aea7801a-20063bc426b0a28a2feb7fd4558b3f23-1745688350-1745677550
+https://p13.magicplaces.eu/digisport2hd/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=026849acf08a86734d0f605271042a6d2af7f0ca-b052618fec3641bfb50438fa73a78e86-1745688679-1745677879
 #EXTINF:-1 tvg-id="3" tvg-name="DigiSport 3", DigiSport 3
-https://p13.magicplaces.eu/digisport3hd/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=715f853d1051c35ec0867b7a508af1d590a7f710-f2d29a338e2a89a5a03635b9c7a028ad-1745688361-1745677561
+https://p13.magicplaces.eu/digisport3hd/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=e9e7a5079ead5dcd78769ba3ebd757b78772d70a-c3595579e45d0d6b32fb47d5b1a7249a-1745688690-1745677890
 #EXTINF:-1 tvg-id="4" tvg-name="DigiSport 4", DigiSport 4
-https://p13.magicplaces.eu/digisport4hd/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=42454e587e725dcb5e6b5a2b27ad070a67f08f96-8c5a81b400c41168ed1d24a205b4a7c6-1745688372-1745677572
+https://p13.magicplaces.eu/digisport4hd/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=3655e9029a05b36aba64042feaf08cccd860c742-b185677670dfe266945fcf25505a2152-1745688703-1745677903
 #EXTINF:-1 tvg-id="5" tvg-name="PrimaSport 1 HD", PrimaSport 1 HD
-https://p13.magicplaces.eu/primasport1hd/video.m3u8?token=f4a0e063a311c7746360f7541599a4c1d654287b-bdeb6e31f0b9b16637b27df29d1d6755-1745688383-1745677583&remote=no_check_ip
+https://p13.magicplaces.eu/primasport1hd/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=27e6d4b74399323f3f4bff8dd01f20413b06dd1f-6f11b792d08c435ce6845081c2a9e8d9-1745688715-1745677915
 #EXTINF:-1 tvg-id="6" tvg-name="PrimaSport 2 HD", PrimaSport 2 HD
-https://p13.magicplaces.eu/primasport2sd/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=d1639931ea7f71d033df55e875d537085062c23c-dbaec016ca303406a6b93740102cd2fb-1745688393-1745677593
+https://p13.magicplaces.eu/primasport2sd/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=7520a93728789ce881bc181aaf329bf9991577f4-404546888d8ed99f2ebbacc054a29569-1745688724-1745677924
 #EXTINF:-1 tvg-id="7" tvg-name="PrimaSport 3 HD", PrimaSport 3 HD
-https://p13.magicplaces.eu/primasport3sd/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=ed96851ff9168efbaf981ac218ca18dc14613bf5-272db1ca1e741d7d870652068bb9a8f8-1745688404-1745677604
+https://p13.magicplaces.eu/primasport3sd/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=5ac0e9c18ac61622da367792c908e36753316e1f-046a447ce125b76f85531d3218bb509c-1745688736-1745677936
+
+#EXTINF:-1, SPORT KLUB 1 |H
+https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/dL3CSo0yraJb7nfwPQvNjIvlXGPfsdLYnv30_R8Rs-WX-tAesnXUNGrBGFu83o4VyQ4wSBC2VIc33IqalzXaI0R1DJC_glivxIAcrvrplbEKjfT2GEFNFI7ua3GZKYjitLaS0dBzYdM2Xi8bsugHAiqTzY9L4uomAusCmpUviOM/hls/index.m3u8
+#EXTINF:-1, SPORT KLUB 2 |D
+https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/jnc8IFufdso6pDDcil633pEajRaaGlmk2wRXsKAoILGd8Maq2f7lbrajPWZrLVDe3YAwL5U05Ogl9DMBTtKQrxfS4-NhX7qh99PXTwWPcstL9fA27zNfJt3g6FsibCu34WsKEZoqh6feizxC3ZLcLEYkWFmH6nK-GKVYi69Sev0/hls/index.m3u8
+#EXTINF:-1, SPORT KLUB 3 |E
+https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/DwTCbaVKUMcMgvZd_d_jMPfFkQMkOVlZoOw255a9KwTYWCaHn9xy1zavuOGVO1kAog73RsTAkdXO1dRDjV_mIBz3D0Z6_01tVIHlIKduHFsbrCCJy3KGGOhREbvoRunR6O1wVtAI2IHmv6_rucVIDUv0nWhP9DGmw2gxRZJC010/hls/index.m3u8
+#EXTINF:-1, SPORT KLUB 5 |E
+https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/TDocqZ-HX6SvhuMZnNzL2AJgACH8H6Z31pVwfO6lpChrGrQQuWVyVwVtaRLtU8LjcxmnIUpT3SqE5pCfDHOhGDV25NfLX2qF0VndRycAO_5b5sWPa1mwemKSpVD71cK0PKNlnvrKJouwlXlu-iEZZ2Wbc9j1fp_PX42HVyqtt00/hls/index.m3u8
+#EXTINF:-1, EUROSPORT 1 |E
+https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/0pgxT95D48eiMb22imAPfMy0NrtB4EkUjc46OQG_rJA-XPU6p-3YzPMPbaSmtN3DfSiecIux-x7czfRDhUSUR_LLoLS_sz1uvcx90h0UKO03ET16_Y3Ilzn8nhgcQRWGDyTkcMk5y--o0g9bkIDhsJSgg19iAdTObbkenLe4T6s/hls/index.m3u8
+#EXTINF:-1, ARENA SPORT 1 HD
+https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/Db3f25D-VeGJTTMdu8xqa2AaqRYLR8ape-BYu8zqNwSrfpAZhuFtt1h22V9EUon2uotMJsHZ_ttFGXX4ZC9qSvFJxBy3BMwOSszZe-3D68ekyElaSbFh8ue--LsJRex1LbuDRlYisvHphXHFTBgXmqBe-vjNVIcbfmUPhlPXzhE/hls/index.m3u8
+#EXTINF:-1, ARENA SPORT 1 HR
+https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/5bbHKj1Ak7hy2QMJUMjlKXzSvQnr2rDXhtTnrD0ne1yx2dxNO7RCwPKUixDlRdQGC1eR0NsEmgdGvk7az-U_1Ni8sw9v_kgkkQ0i5tGg-2ZY5syXF8o2RuEu3jRAFjgFf_sTBxC4FnearzH0uHMjRxnQuxZPFTzRP4E95gjjNxU/hls/index.m3u8
+#EXTINF:-1, ARENA SPORT 2 PREMIUM |E
+https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/-9ohaA-pHrnOA-S5YMCJKbDHvHv0kqK7cjbFXZasbyhFJmtHAWqeYaegUnvJePdXdTjSAHN-zBcRiZJatnNt64apTlXrrDXfUbmuq1TON8mdRrVkK0d3Ft2Hb10B4x4oyvZsYgqM2xYju0_ERZ0huQhtX0mpEGNxd0YLJjH65Nk/hls/index.m3u8
+#EXTINF:-1, ARENA SPORT 2 BIH
+https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/dECUWXTqdsOt2__8Zq39eP8fAZeHpbnJf4W3MLJYexx02-3MyFGkSe0iu1f24bWIW5sJwjsAKJ9ke5I7o9guiiU1kJQ-eVlm85DMcJ6SKQZ-8iH7HBfyVnD7OsfjHF61nCrta4PMuDf_mGmF30BEM-iQ__q3ZIDFck9HC7cU6AU/hls/index.m3u8
+#EXTINF:-1, ARENA SPORT 2 SRB
+https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/V7oFqc-Uq3EGfn6861aKDAsNzL8NOuyqFnHZdKCeaKPN1XdFzKa6Dg7b_jCm4scJNGc5Ykfni7YsYP1YtpGfBU0LXbuJuzTfBFH7ZXG06wRnkw-dOBGKeemDn7YfSDYSKvCSAmUJZ2KaaUp9MZuo7tUiDcmiGw2LNEIkp3IovJ4/hls/index.m3u8
+#EXTINF:-1, ARENA SPORT 3
+https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/6ieVXE6QPG8SMZaVwpT0rLUyJr-QO6RnHg4TGn0p6Vt6QuEaNE7EsWvSYVFiRDpfpARsm1osLoErorr7UPSliuY6IlY27584biOGLTPnKUFZsbZXYtc9bE526NZ5BUeajRwHkVwsZc6ni8jLOtMJF7C7-hdkdK_FalTRqZuuvLo/hls/index.m3u8
+#EXTINF:-1, ARENA SPORT 3 SRB
+https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/3cSmRU-OKvcQxSP0tV7CjmwU82AG4t2jPOrsWcbjfEGpZV9hyy-FDvBuYhVGXbo3wzHBofQKx51PQO_LdRMRw_n1kXp48ngiXgqTcD2wzomAhCuAawYTIJ4JfB62uWFJ45lD2a2KEQNDX-1N6JYVT5Eu6ihRvQqVCBr0P8hpOxk/hls/index.m3u8
+#EXTINF:-1, ARENA SPORT 4
+https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/AKE5fN3TJSezR3GJxOYakR_zsGx2u6pMXja6ANKiOG6d7ISb2eJM3PHMsKZQ_yfKBEAjHAF6lqDiQhIk8F94PeQRiEraReJPnf2EcUdEu9UxiDqg8efeuWM-DYqX9CmGad914dRwpXGQBXkMfmgygtCM-IrnodwDuV5X7QIRsTk/hls/index.m3u8
+#EXTINF:-1, ARENA SPORT 4 BIH
+https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/3RF9dOuSBHtTmC2f3rvIiol4JVVVTGe-X7QlewpqcezaLCEYL4KJlhNffG119GNFtC2V2vw17lBNPmam4lEp6ZxciDPBujLN52h-NelmDh4pcnFj0XKahxKG7bw1re7iHFOxyDGX_Kt51Lhh-9uC_BgY14_pFjUmDt_1mWKM52g/hls/index.m3u8
+#EXTINF:-1, ARENA SPORT 4 SRB
+https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/8MCczezwbU2qZNEJ-em7k7ReF35GWmhIsg2LNf6PFCgI9g07P2BAzeBYnJqvd0kZpOS3HsrIrfS1o9B4njhaJO40z_vN-lhPCE3G2fp993bfucXLHVKbEP2QJzRncFv5lYY6SYSSdy5UJgi0Z4Lz8xqvWXtdxum_nVNoCK3x2L0/hls/index.m3u8
+#EXTINF:-1, ARENA SPORT 5 HD
+https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/Ka7YsG0kYGAU431Au6IcySXyJO3L2lg45SDEx-6aEbh-xVs44Z1J7EXoUX7aybOwrLd5eC5Q2R5Jd18ZJAQmDmLm4gvjjYPbJSo-NPneG_BqAlqRL92ySkjb90aB73PNRPBpFMGxHJs8U5Ith7YCnAoRVLJnC6Rbj26W84cPBUw/hls/index.m3u8
+#EXTINF:-1, ARENA SPORT 5 SRB
+https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/QpcrV9V1DjbMQ-KRFvDH5T4glEeFUy3DQft-e1q2jkYmxLFq17GpfIW5rvpCN2tnTeypBF0JO3_IDWFixisYJv8gThGJtVyQYHSzAOuZFgyWV4bXNa1tEc_IcQXB6Bt2vLbl5fPqVEHmhgqJR6n24QlPpcU7T9bOoLSwqKdMtsk/hls/index.m3u8
+#EXTINF:-1, ARENA SPORT 6
+https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/glzUsP6tWoO2b6nMWBJTlmzgoJxnX_ZOIVYYrsAaln9UhgdDwaHewwu_QlPRkIx5ObZ7JsXG2uIe-3ZRTQuxDlWSkdm7iwsaaYWKG4ZtmaDkl3g-miG-TCRms3w6oXfasP2GvLQJZV_Lrkih1TJmbRzno15zloNsCf98cbFFf_Y/hls/index.m3u8
+#EXTINF:-1, ARENA SPORT 10 HR
+https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/IaAgef4HBq3rAPrGEgge26Orfy_8FK0sLDzTWy0x7DvE7f_JwVxlmIoNT_oDEWjC7mM7j5SO36xY8Nzk9MQi4YTMJ93A3b1lYVfGH5nCCpbhFcybzgpU33Ho4xBXXVlwXDsYJUQa7wKgvqjlG8cP9XJxqE3-E0HGH_7TFv9DmQE/hls/index.m3u8
