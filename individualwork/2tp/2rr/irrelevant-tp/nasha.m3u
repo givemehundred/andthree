@@ -1,20 +1,20 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="2" tvg-name="Sitel TV", Sitel TV
-https://teve.mk/tvstanici/s1/chunks.m3u8?nimblesessionid=455513861&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDI1IDg6MTg6MjQgUE0maGFzaF92YWx1ZT1vYjdia0VUZU9vUWhwUzFrRUlOLytBPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
+https://teve.mk/tvstanici/s1/chunks.m3u8?nimblesessionid=455540373&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDI1IDEyOjAwOjQ4IFBNJmhhc2hfdmFsdWU9TU1QUjlXb2t2VURMeFlxNy93am90QT09JnZhbGlkbWludXRlcz03JmlkPTU=
 #EXTINF:-1 tvg-id="3" tvg-name="Kanal 5", Kanal 5
-https://s2.teve.mk/tvstanici/2/chunks.m3u8?nimblesessionid=12312233&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDI1IDg6MTg6MzkgUE0maGFzaF92YWx1ZT1uOHI2d3dtS21HSFFmZEhHaXArcDF3PT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
+https://s2.teve.mk/tvstanici/2/chunks.m3u8?nimblesessionid=12323171&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDI1IDEyOjAwOjU2IFBNJmhhc2hfdmFsdWU9ditnYjhPdlRFM0VDelkwcktSbEhOQT09JnZhbGlkbWludXRlcz03JmlkPTU=
 #EXTINF:-1 tvg-id="4" tvg-name="Telma TV", Telma TV
-https://teve.mk/tvstanici/telma/chunks.m3u8?nimblesessionid=455513917&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDI1IDg6MTg6NTEgUE0maGFzaF92YWx1ZT1MRHordUFtWVIxbndjZmlmQ1YzYWlRPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
+https://teve.mk/tvstanici/telma/chunks.m3u8?nimblesessionid=455540391&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDI1IDEyOjAxOjA2IFBNJmhhc2hfdmFsdWU9K0hZSTZjN0ErVWpnTUVUOTZxZjJudz09JnZhbGlkbWludXRlcz03JmlkPTU=
 #EXTINF:-1 tvg-id="5" tvg-name="Alfa TV", Alfa TV
-https://teve.mk/tvstanici/alfa/chunks.m3u8?nimblesessionid=455513935&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDI1IDg6MTk6MDIgUE0maGFzaF92YWx1ZT1tQS9IS3VyODdCRi93WHJWV3JlaDlBPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
+https://teve.mk/tvstanici/alfa/chunks.m3u8?nimblesessionid=455540393&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDI1IDEyOjAxOjE1IFBNJmhhc2hfdmFsdWU9WC9vaHpOQW90VGphNG1PWElOZUlSdz09JnZhbGlkbWludXRlcz03JmlkPTU=
 #EXTINF:-1 tvg-id="6" tvg-name="24 Vesti", 24 Vesti
-https://teve.mk/tvstanici/24vesti/chunks.m3u8?nimblesessionid=455513967&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDI1IDg6MTk6MTUgUE0maGFzaF92YWx1ZT1JT0UvYmdsUG5mTWNzd3dGb3lZTUF3PT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
+https://teve.mk/tvstanici/24vesti/chunks.m3u8?nimblesessionid=455540396&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDI1IDEyOjAxOjIzIFBNJmhhc2hfdmFsdWU9UEJTL0orSUlVL3pEYUJ2YW96eWlTdz09JnZhbGlkbWludXRlcz03JmlkPTU=
 #EXTINF:-1 tvg-id="7" tvg-name="MRT 1 SAT", MRT 1 SAT
-https://vod-c57.interspace.com/channel_abr/45/receiver/45_p3/chunks.m3u8?nimblesessionid=23816681&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDI1IDg6MTk6MzEgUE0maGFzaF92YWx1ZT0zVDRGMGZhVHdvYUJFazF3a0NMeFJ3PT0mdmFsaWRtaW51dGVzPTMwJmlkPTY4MGJlZTUzOWJjOGE=
+https://vod-c57.interspace.com/channel_abr/45/receiver/45_p3/chunks.m3u8?nimblesessionid=23892824&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDI1IDEyOjAxOjMzIFBNJmhhc2hfdmFsdWU9MEtOMEJlK1dOb0QvU3hZbTJOdVgzQT09JnZhbGlkbWludXRlcz0zMCZpZD02ODBjY2IxZDBiN2Uy
 #EXTINF:-1 tvg-id="8" tvg-name="Sobraniski Kanal", Sobraniski Kanal
-https://vod-c57.interspace.com/channel_abr/44/receiver/44_p3/chunks.m3u8?nimblesessionid=23816692&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDI1IDg6MTk6NDMgUE0maGFzaF92YWx1ZT0xaGpRNHowaUxROTA0YkFtTFd1dk5nPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY4MGJlZTVmODgwZTc=
+https://vod-c57.interspace.com/channel_abr/44/receiver/44_p3/chunks.m3u8?nimblesessionid=23892836&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDI1IDEyOjAxOjQzIFBNJmhhc2hfdmFsdWU9OEd0Z1VaMFpJbmhXRlpISkN4QkV4UT09JnZhbGlkbWludXRlcz0zMCZpZD02ODBjY2IyNzU4MzQy
 #EXTINF:-1 tvg-id="9" tvg-name="VTV", VTV
-https://live.vtv.mk/live/vtv/chunks.m3u8?nimblesessionid=21692174
+https://live.vtv.mk/live/vtv/chunks.m3u8?nimblesessionid=21762559
 
 #EXTINF:-1 tvg-id="1" tvg-name="Naša TV", Naša TV
 https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
@@ -214,3 +214,42 @@ https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a0
 https://clubbingtv-rakuten.amagi.tv/playlist360_p.m3u8
 #EXTINF:-1 tvg-id="-1" tvg-name="Prensa Latina TV", Prensa Latina TV
 https://eu1.servers10.com:8081/8192/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, PINK PREMIUM |D
+https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/QskLPEj_HeWCF84-OUTcUDR1aePiOgkJXFBzAByjKCQcMETJzePey0opMiFjOuGMhYJm1osK_AYyI-qW0d7z0q9zTkRDJ6QqUOmVnhcY09i1LIZslMWh-zr-Ji6SuaAboGo2JMbGKPFaBr555W5viS6n4tdbZzWGjIpubNXQRkM/hls/index.m3u8
+#EXTINF:-1, PINK FILM |H
+https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/dndbDd1S0VzBVzeGC5dL6eXuZ64k2nWMwyxj7FdhgDCwIcH6mjL3ybVDM8FckJqk9ZSq1Ob8rAtVrwqjqjtU6IbmcJb2fXd3oktIomzvUZwvqQrvKbdq6aLMp2x0PAN7zDjWBSIHlFzV0m3J6Rpy82gGWVj8GVXOacjtNLHN2aVr0ZbfYM4JSrV0C7xSMR1I/hls/index.m3u8
+#EXTINF:-1, PINK ACTION |H
+https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/1DkZp2-xJc2a_klmp7HdFaFy1jUwpoTiJo25N2V9Wv4R7syJKxPS86Skrl5dPSYFHG2Rr4t6gZRSoyr1dfhy4-XuFwopXIH5H1F__CMH4My36WRQuPEZWmd-16PH8fULNtQivgCP-GotFDf8xGDkn5-A3rEmVXJw_R2_7ljIg2XY7ZXut6SrjZsilPYZssnd/hls/index.m3u8
+#EXTINF:-1, PINK THRILLER |H
+https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/gaQpDNerfGR8O3yIMxpuo5VU3bHckvdY9WOkCs8J_2MSPm8NOe5sVStVN3xJ20FsmOr5Mqd4P7Jpr1qUfo4m6rHHFXGQ-dA6kEjH0CZE1Hs1h-1Oi6ttQ3tm87fPAUC1hIw7m0KmhPAaVYhmZBqZM83ibNuH6J9iPda1utsw1rwpXsrrJu7Cpu_kA_HFzs4O/hls/index.m3u8
+#EXTINF:-1, PINK PLUS |D
+https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/PLV5COm7CyBniugnlQS2OV-nlilnqDaQdBBkUBG6XvdC2ZFNDCi4BtOV2owILne8n5vlwK9-hA0QSHbQLX1blqXO-ie2B5yRboq03-M3VBVSC2X523U5EVOwrVv4PzXeG1VTyMx4Dl2kJBLN-OWSH_t7FlwG14W5Toe1R_Luz7zIgXFBQ4mzCHbo20IHBd-s/hls/index.m3u8
+#EXTINF:-1, HBO 2 |H
+https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/dsfkcwieOUYIx7HtzQb1t-3pclHODPGbhb3IDbRF-c0y0pu6ODy3VfDXZcepnT6kY7AaNKxcOGfrEXd_UFDY4E0_n9gwyHAzB6N6TW7PTAye-t4PmhQ1djyZeJcHysScDMBIGy2Wng1tFtEJr1jcZBYz4k_c3s9jLc050pL_J8O056W_5Fjbv2NJsdRvrNdz/hls/index.m3u8
+#EXTINF:-1, AMC |D
+https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/EKYyPTVlDcJXLplvvhWRckhMBSa0r2Kot0QedjAZO6ZV_Brdotb0tkqztroTgvMNnw9Nk5PzwtI95XNZhdxBiR3GNLM6IQcmnYu4qroReclu1xV0uA6Na7ZYXsSbwAhcWCsqFN_LRlc6Rz0h3y4MzwaMbuTpfS0rp336IHFnC8rX_vOedssQBXvzUtHg5SwX/hls/index.m3u8
+#EXTINF:-1, CINESTAR TV |H
+https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/KHk4w3nR45KJG97dA1P7xRZJdhYSb56OeibpRz5I7QbaLLCASa3hbHsQDawZyjpMZ7RZ6053yiWubWoIemMHzs0HDALQlWLZbjSGB7A6WlbDU4t7I4RLxgdelLBlrRgt_AJNnc8dOvm8q4r_js7yl_7GK6uIsEkhvt3AcTo7emuN2nNzS2H9Efw6Sck5zBoF/hls/index.m3u8
+#EXTINF:-1, CINESTAR PREMIERE 1 |D
+https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/W5TbGnc6jvFh0ZFtL-2xNF0dLzg2zt7jnreMsSxiAadnsv_PGib1J-NGVp_bV0i-Q2YZurTaKMoP_7ebXzdLjZubdAFvQPyH2Gjxosrt-4U1M20-M-rapppsgav0l3_9Rr33o-KeJWXqEkCgVqF10Yc1cMYU4xNK6s9bVgSBP1JY6bNWaYxuCF9xP896WxRL/hls/index.m3u8
+#EXTINF:-1, CINESTAR ACTION TV |H
+https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/wsWVVOhBJgszhKAczlmSnGNE200IbcIhBdzzN8wo0HOSKvUu1fJU7FQpcq-fc-Qd3ES9IDYtWSUFEYFgXxCiLUQ9gwTEadqjuSMC_KUd1EK9eor3G-p_7aE86E6S1GwdCyRFgvpLEVKHY6B7OlN42zVCQBCNNoQV-i8MamQQ6qnL21uAR76RcnYiCmkkKwiX/hls/index.m3u8
+#EXTINF:-1, CINESTAR FANTASY |H
+https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/ebw9qaT1JvRY3G8sfcvaPVRULHdRGPF7ZHZQ50XuTPvXwGNhokYv8UXM2-0kqh8Eqre1KHa2gaoJdIceZFOhBbdIlLb0rhVbnIPHnrjq0hO4COa4rE3uzujqwNQ4d4-q_TmrhyybZ7kkRqZi-eVP8oVlAMhSspqw7Gqe7et88_PWqidQGDm0CR7-eOgITcAz/hls/index.m3u8
+#EXTINF:-1, CINE+ SELECT 1 |H
+https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/sJ0ZSTP8VOq5KCPzQICHED-VsjM7tAS8oeQMFeQIcbiW-0lzYrlJbaCJL3dJ4apjMR9dUV4bAjCrsE_mdq9Xv1nzcaWlbrfphP-oMgVqB-dnHqfT5GfFbI3Xlo7f5eY_R45QgMUB6ap4uEIut12SUyUEd8rFjY52E_WH-Jr3r2QT1399gCNYbmEDmWDCMgG2/hls/index.m3u8
+#EXTINF:-1, CINE+ SELECT 6 |H
+https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/ntRvxBVtPbXdlDJlCjcMdDE4zj5UVd1Up8hslYtEXSGycRprfCj7tWBGG28SN00tpr8JVBZOBPuATjPiyIXyyh9bu-HGbKTVfJGgZhHyGT9vxVPnN_ZCG7BJHF4KcfSE0b5Mve7ShcUt0qWGm2z3J5QVBOpuATNKGF0yl-hBlTfoiZCRqlI5MYRlSdJ-ctZo/hls/index.m3u8
+#EXTINF:-1, CINE+ SELECT 10 |H
+https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/_VGP37MEFFXNjUaasljTyKW7EdTqgVaxqKYvDaFn1SjZKapWeuVzb6ZgVDFqD7pw8R56Ql-1pDeTUm_pAffWfR0DVDJgP5AdR4WEN1mRlr_FPIZ9iz0YsxFgiDoAOfsKsOE2RcyVbig1Ag8Ycs056mbilZSxpYVj8XI3LhgiwqFNBgpnTAkkJNibRS34x8Qm/hls/index.m3u8
+#EXTINF:-1, FOX |H
+https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/MHfaz_f61wN7Efy_vJoN77hcAQNG1DyEBAUArwdLsxOOzO_VWZCKN_fxP22HqofNWMdLRXZALi8Km7xYwQROPooJVHY_MoV5leR0EWHdU3UTIZN3EBIrOMsNONsDn2H7hispaLf3Bj4zHMimKl0wyHxbmRoO2SO3az8SQbKbwOMlvHV3v5Wdtzzu_8bjuLPF/hls/index.m3u8
+#EXTINF:-1, TV1000 |D
+https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/J0-jYPW6v1A7sedbFamsOFPDK0U3P5-_DDrUlAagI7s2AMBEd94T35CEyR7RNbvkb8E-T1Ge9cRe-7r1l_VRI0hmrlEdYmzZ_O0xEtmPTcOB2iwuSULX-SIt9J5Bv_-b73aqvXeHndOq4ysWwU_b2u-xe2jjJUZda9JTqhxKxAEizRXPEvlG16gimWcZ1IX9/hls/index.m3u8
+#EXTINF:-1, SKY SHOWCASE |E
+https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/hqqBoureD1B9KIaNuLD6LgwJrNykxEIP59QsnCuZMib-eJU9PEymDc6x-j43_jkLLVRdct0NjgMWS1DpTCUPYnpUBX-jc5DYFD3wt6RxpBGDbiDYoVZh0mmyT06kLeVN-jHhiG7k2rWDSk2BlVkblQCJTkLSF81NbmSiDpj6uWaef6sHrkAv2w5duJvjWO0c/hls/index.m3u8
+#EXTINF:-1, SKY KRIMI |E
+https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/3faQjzu9w8pmIe-8b5hUucs219R6m3cxRBsj71rfIZ4buR3rcGJS1QWtPptBKATriFlLRd0g0bdt8iccwy6a-kYWh4hhho5efuW3t38q_9u7OPUhlpjuCIdlsiBXas6m79_SKYN0pIin6nJdiEqsqYHTE5P6wL904QfmcfHPwpk919VPwxQBtmdqUpBXyT86/hls/index.m3u8
+#EXTINF:-1, SKY SHOWCASE |D
+https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/lHlAiWgL8kYoAsxr2VQI9Mb5VmDee5aQEPkyhKR-Fg3rWjjJhq9Oh-_9IwfRzAW1OxajK-EUtWoZSF6nNrdhSYXX0OXN6VMyBEy9XDEMrQhTm_47Qsnr9Ry5fBG4zfzlv1xgRk2LuSBtxHCLHoCtAGTMDJcGaixB-gF_aEbO0uLwqP-B9F_d2de15D2eamIY/hls/index.m3u8
