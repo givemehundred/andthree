@@ -1,41 +1,193 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="16" tvg-name="Max Sport 2", Max Sport 2
-https://cdn10.stgledai.org/mtelsport2/tracks-v1a1/mono.m3u8?token=458f4adba246edb51157480db13f08929bbefe7f-9b3dff6c1a068ebcc2f304352cb76358-1745697690-1745686890
-#EXTINF:-1 tvg-id="17" tvg-name="Max Sport 3", Max Sport 3
-https://cdn13.stgledai.org/mtelsport3/tracks-v1a1/mono.m3u8?token=a9a05bebae8fcaffa6d9ab5badb31128bf8b5dd6-f620c229cc2b7744ff6f948dd86c3d7a-1745697717-1745686917
-#EXTINF:-1 tvg-id="18" tvg-name="Max Sport 4", Max Sport 4
-https://cdn8.stgledai.org/mtelsport4/tracks-v2a1/mono.m3u8?token=3c7ea94a39721a82b2ff9d6f3f270fe3c53a94f6-45ab626bb81c754c6d914c3ae8fc6356-1745697744-1745686944
-#EXTINF:-1 tvg-id="19" tvg-name="Diema Sport", Diema Sport
-https://cdn13.stgledai.org/diemasport/tracks-a1/mono.m3u8?token=522b6ae27e12dd3baaff6949b49259ef72e478ab-7c5e838b8f0dde525600aba05ec7df87-1745697768-1745686968
-#EXTINF:-1 tvg-id="20" tvg-name="Diema Sport 2", Diema Sport 2
-https://cdn13.stgledai.org/diemasport2/tracks-v1a1/mono.m3u8?token=9db14c1bf3e285a0b68f4715481f6ec3656ad53a-b8452faa2960f5949229182181b4032b-1745697792-1745686992
-#EXTINF:-1 tvg-id="21" tvg-name="Diema Sport 3", Diema Sport 3
-https://cdn11.stgledai.org/diemasport3/tracks-v1a1/mono.m3u8?token=bc55cd7b39cbc04d0ddffce76c9d50ea36e284fa-f2d9b937c61e0ff2711459a9ad626619-1745697813-1745687013
-#EXTINF:-1 tvg-id="22" tvg-name="Nova Sport", Nova Sport
-https://cdn13.stgledai.org/novasport/tracks-a1/mono.m3u8?token=d290946fbd6742b521214f74798eb5e45ffaacd7-1600196661a603e32ea1ef2536b2a846-1745697834-1745687034
-#EXTINF:-1 tvg-id="23" tvg-name="Ring TV", Ring TV
-https://cdn13.stgledai.org/ringbg/tracks-v1a1/mono.m3u8?token=4c767d0497e396cd8f60f9929f1496c84b1991a1-9abac40bbf130bb3765b87f73486e557-1745697855-1745687055
-#EXTINF:-1 tvg-id="27" tvg-name="Kino Nova", Kino Nova
-https://cdn13.stgledai.org/kino/tracks-a1/mono.m3u8?token=6a6b9faf359d6899d1bdecfd344bce154ad784d3-15c82ac4ec01a85ce6a3a17ee31766bd-1745697940-1745687140
-#EXTINF:-1 tvg-id="27" tvg-name="Fox Crime", Fox Crime
-https://cdn13.stgledai.org/foxcrime/tracks-v1a1/mono.m3u8?token=183293b1e74719d518feb15f59b8f4aef8b9ef3d-eaa68227915d7717e78bfaf4b35d0697-1745697960-1745687160
-#EXTINF:-1 tvg-id="28" tvg-name="Fox Life", Fox Life
-https://cdn13.stgledai.org/foxlife/tracks-a1/mono.m3u8?token=9d1c2f1806382f83784a5e64a5f5ff9adb65d721-13341313433117802ddb8b216e65b5f2-1745697981-1745687181
-#EXTINF:-1 tvg-id="29" tvg-name="AMC", AMC
-https://cdn13.stgledai.org/amc/tracks-v1a1/mono.m3u8?token=47c4c12b6d76346ab0caa2a25ece542942d86526-4efd4102cbdd8f05e5c6db186b4795d4-1745698004-1745687204
-#EXTINF:-1 tvg-id="30" tvg-name="AXN", AXN
-https://cdn9.stgledai.org/axn/tracks-a1/mono.m3u8?token=a10562b62c887e75675db9940064797534cc0fa6-ad9c12ed0bc45e6e627b89552983a4a3-1745698027-1745687227
-#EXTINF:-1 tvg-id="31" tvg-name="FilmBox Plus", FilmBox Plus
-https://cdn10.stgledai.org/filmboxplus/tracks-v1a1/mono.m3u8?token=ec33039c243d24fbd31ffe2d0cde0d3743f0ece9-1f02916728fbc0625a9cbf9548e92070-1745698047-1745687247
-#EXTINF:-1 tvg-id="32" tvg-name="FilmBox Extra", FilmBox Extra
-https://cdn10.stgledai.org/filmboxextra/tracks-v1a1/mono.m3u8?token=7e9e31142a296a8b01e884fa806a31d06fc40ccc-b745556d8a29dff327dc87865d774818-1745698069-1745687269
-#EXTINF:-1 tvg-id="33" tvg-name="Diema", Diema
-https://cdn9.stgledai.org/diema/index.m3u8?token=0de6a12529476f9e2aa100d91bb49b56298c241e-c43f804e312dc9e6b6f2d787eb382551-1745698093-1745687293
-#EXTINF:-1 tvg-id="34" tvg-name="Diema Family", Diema Family
-https://cdn10.stgledai.org/diemaf/tracks-v1a1/mono.m3u8?token=e2fc17dbb7bdf18b31367e6dd8fe69d353de77f7-1b6b4aafd34c8dd8a3877153caf22724-1745698114-1745687314
-#EXTINF:-1 tvg-id="35" tvg-name="bTV Lady", bTV Lady
-https://cdn13.stgledai.org/btvlady/tracks-v1a1/mono.m3u8?token=2cc3b66c2f79c2232c6b239b64e2f113fed2ddbb-b45dc40c1c715709aa59f01ba68361f0-1745698136-1745687336
-#EXTINF:-1 tvg-id="36" tvg-name="bTV Comedy", bTV Comedy
-https://cdn13.stgledai.org/btvcomedy/tracks-v1a1/mono.m3u8?token=0b3767c9ca333e9c241451c42bd81838a3ec3893-de1a946a2f444e3c7a2eec22dce1d620-1745698161-1745687361
-#EXTINF:-1 tvg-id="37" tvg-name="bTV Cinema", bTV Cinema
-https://cdn10.stgledai.org/btvcinema/tracks-v1a1/mono.m3u8?token=2f1e751be4702a3a9734c26695b74ba0c606558e-e8164857073018ce20f72023da48e5be-1745698186-1745687386
+#EXTINF:-1 tvg-id="1" tvg-name="Naša TV", Naša TV
+https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CoolTV", CoolTV
+https://stream.nasatv.com.mk/cooltv/hls/cooltv_live.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="LoveTV", LoveTV
+https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="Star Plus", Star Plus Televizija
+https://live.muzickatv.mk/live/StarMusic2.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="Macedonian Documentary", MK Documentary
+http://giganet.mk/hls/macdoc.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="TVZdravkin", TVZdravkin
+http://zdravkin.hugo.mk:1935/live/zdravkin/playlist.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="TV NOVA 12", TV NOVA 12
+http://151.236.247.171:8080/nova/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="M-NET INFO", M-NET INFO
+http://live.mnet.mk/hls/mnet.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="M-NET GOURMET", M-NET GOURMET
+http://live.mnet.mk/hls/mnet-gourmet.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="M-NET SPORT", M-NET SPORT
+http://live.mnet.mk/hls/mnet-sport.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="M-NET KIDS", M-NET KIDS
+http://live.mnet.mk/hls/mnet-kids.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="IN TV", IN TV
+rtmp://tv1.intv.mk:1935/live/intv
+#EXTINF:-1 tvg-id="1" tvg-name="CMC TV", CMC TV
+https://stream.cmctv.hr:49998/cmc/live.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="Radio Lola", Radio Lola
+https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="TV - M", TV - M
+https://live.tv-m.net/hls/stream.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="Radio Karolina", Radio Karolina
+https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/0.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="Muzzik Cafe&Club Serbia", Muzzik Cafe&Club Serbia
+https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="Muzzik HipHop Serbia", Muzzik HipHop Serbia
+https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="Muzzik OKK Serbia", Muzzik OKK Serbia
+https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="Muzzik Rock&Roll Serbia", Muzzik Rock&Roll Serbia
+https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="Muzzik TV Serbia", Muzzik TV Serbia
+https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="Muzzik Worldwide Serbia", Muzzik Worldwide Serbia
+https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="Muzzik AMVA 2020", Muzzik AMVA 2020
+https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="Muzzik Jeka Serbia", Muzzik Jeka Serbia
+https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="Muzzik Mediteraneo Serbia", Muzzik Mediteraneo Serbia
+https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="Magic TV", Magic TV
+https://bss1.neterra.tv/magictv/magictv.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="The Voice TV", The Voice TV
+https://bss1.neterra.tv/thevoice/thevoice.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="This is Bulgaria HD", This is Bulgaria HD
+https://streamer103.neterra.tv/thisisbulgaria/live.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="Kanal3 TV", Kanal3 TV
+https://tv1.cloudcdn.bg:8081/stream_hd720.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="Travel TV", Travel TV
+https://streamer103.neterra.tv/travel/live.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="TurkeyTravel", TurkeyTravel
+https://go2thls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="Evrokom", Evrokom
+https://live.ecomservice.bg/hls/stream.m3u8
+#EXTINF:-1 tvg-id="3900" tvg-name="TV 1", TV 1
+https://tv1.cloudcdn.bg:8081/stream.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="Top Estrada", Top Estrada
+http://live.topestrada.com/live/topestrada/playlist.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="Hope Channel Bulgaria", Hope Channel Bulgaria
+https://hc1.hopetv.bg/live/hopetv_all.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="Al Jazeera Balkans", Al Jazeera Balkans
+https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="Libertas HR", Libertas HR
+https://stream.luci.xyz/hls/LTV.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="RTV AS", RTV AS
+https://srv1.adriatelekom.com/TVAS/index.m3u8
+#EXTINF:-1 tvg-id="4328" tvg-name="SOS Kanal Plus", SOS Kanal Plus
+https://53be5ef2d13aa.streamlock.net/soskan
+#EXTINF:-1 tvg-id="4327" tvg-name="TV Hram", TV Hram
+https://vod1.laki.eu/live/hram/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="TV Pirot", TV Pirot
+https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/playlist.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="TVCG 3", TVCG 3
+https://parlament.rtcg.me:1936/pr/smil:parlament.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="1023" tvg-name="BN TV", BN TV
+https://rtvbn.tv:8080/live/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="Bloomberg Adria", Bloomberg Adria
+https://d3ojytvj4doga3.cloudfront.net/app-23764-1566/ngrp:Jq3SvH9h_all/playlist.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="RTV Herceg-Bosne", RTV Herceg-Bosne
+https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="RTV Zenica", RTV Zenica
+https://stream.rtvze.ba/live/123/123.m3u8
+#EXTINF:-1 tvg-id="1887" tvg-name="Super TV Media", Super TV Media
+https://mirtv.club/live/mirtv/index.m3u8
+#EXTINF:-1 tvg-id="1887" tvg-name="Televizija 5", Televizija 5
+https://balkanmedia.dynu.net/hls/tv5web.m3u8
+#EXTINF:-1 tvg-id="1887" tvg-name="Aeolos
+https://cdn.istoikona.com/aeolostv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="Telekriti", Telekriti
+https://neon.streams.gr:8081/telekriti/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="Deejay TV IT", Deejay TV IT
+https://streamcdnf29-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/chunklist_b1728000.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="Radio m2o", Radio m2o
+https://streamcdnf28-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b1728000.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="Baraza TV Deep House", Baraza TV Deep House
+https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="Baraza TV Relaxing", Baraza TV Relaxing
+https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="Ocko TV", Ocko TV
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/chunklist_b2628000.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="Deluxe Dance", Deluxe Dance
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="Kronehit", Kronehit
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="DASDING", DASDING
+https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
+#EXTINF:-1 tvg-id="986" tvg-name="Deluxe Music", Deluxe Music
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="ET Live", ET Live
+https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
+#EXTINF:-1 tvg-id="4439" tvg-name="Travel XP", Travel XP
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="EWTN Europe", EWTN Europe
+https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="Kiss TV Spain", Kiss TV Spain
+https://streamtv2.elitecomunicacion.cloud:3144/live/verbenatvlive.m3u8
+#EXTINF:-1 tvg-id="4565" tvg-name="RFD-TV", RFD-TV
+https://rfdtv-jw.cdn.vustreams.com/live/7cba1a3b-318a-4097-8492-374478370b91/live.isml/7cba1a3b-318a-4097-8492-374478370b91.m3u8
+#EXTINF:-1 tvg-id="2316" tvg-name="TRT WORLDS", TRT WORLDS
+https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 tvg-id="143" tvg-name="RT", RT
+https://1a-1791.com/live/hr6yv36f/slot-4/mxtm-wdfe_360p/chunklist_DVR.m3u8
+#EXTINF:-1 tvg-id="645" tvg-name="RT Documentary", RT Documentary
+https://rtmp.api.rt.com/hls/rtdru.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="Yahoo Finance", Yahoo Finance
+https://yahoo-plex.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-id="1323" tvg-name="Canal 24 Horas", Canal 24 Horas
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="Al Jazeera Qatar", Al Jazeera Qatar
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="NL", NL
+https://live.omroepnet.nl/hls/1/stream.m3u8
+#EXTINF:-1 tvg-id="280" tvg-name="FashionTV", FashionTV
+https://fashs043.cloudycdn.services/scte/sftv2/sftv2_chunklist.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="CurrentTime TV", CurrentTime TV
+https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/playlist_1080.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="Outdoor Sports", Outdoor Sports
+https://outsidetv-outside-localnow.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="PBS Kids", PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="Kika Kids", Kika Kids
+https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master-1080p-5000.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="RTV", RTV
+http://iptv.rtv-ooe.at/stream.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="N-TV", N-TV
+https://s6.hopslan.com/ntvX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="RedBull AT", RedBull AT
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="ORF", ORF
+https://s6.hopslan.com/orfx1111/index.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="ORF 2", ORF 2
+https://s6.hopslan.com/orfx2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="969" tvg-name="Servus TV", Servus TV
+https://s6.hopslan.com/servusX1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="975" tvg-name="RTL", RTL
+https://s6.hopslan.com/rtlX12/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="975" tvg-name="RTL ZWEI", RTL ZWEI
+https://s6.hopslan.com/rtl2X/index.m3u8
+#EXTINF:-1 tvg-id="975" tvg-name="Super RTL", Super RTL
+https://s6.hopslan.com/superX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="ARD TV", ARD TV
+https://s6.hopslan.com/ardX/tracks-v1/mono.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="ZDF TV", ZDF TV
+https://s6.hopslan.com/zdfX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="ZDF NEO TV", ZDF NEO TV
+https://s6.hopslan.com/zdfneoX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="Vox TV", Vox TV
+https://s6.hopslan.com/voxX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="SiXX TV", SiXX TV
+https://s6.hopslan.com/sixX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="Phoenix TV", Phoenix TV
+https://s4.hopslan.com/phoenixX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="Discover Film TV", Discover Film TV
+https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-id="971" tvg-name="Kabel 1", Kabel 1
+https://s6.hopslan.com/kabel1X/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="Radio HitFm", Radio HitFm
+https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a02-4f8c8677d565/0.m3u8
+#EXTINF:-1 tvg-id="1940" tvg-name="Clubbing TV", Clubbing TV
+https://clubbingtv-rakuten.amagi.tv/playlist360_p.m3u8
+#EXTINF:-1 tvg-id="-1" tvg-name="Prensa Latina TV", Prensa Latina TV
+https://eu1.servers10.com:8081/8192/tracks-v1a1/mono.m3u8
